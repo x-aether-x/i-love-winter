@@ -2,7 +2,8 @@
 - 👀 I’m currently interested in machine learning and osdev
 - 🌱 I’m currently learning machine learning and bashing my head against the keyboard when my code doesn't work
 - 💞️ I’m open for any collaboration options if you want!
-- 📫 How to reach me: imatoaster65@gmail.com
+- 📫 Email: imatoaster65@gmail.com
+     Phone number: 0497 591 734
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🍞 
 
